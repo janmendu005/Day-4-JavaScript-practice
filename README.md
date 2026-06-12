@@ -2,31 +2,6 @@
 
 A collection of JavaScript exercises and mini-projects focused on asynchronous programming concepts, API interactions, and practical DOM manipulation. This repository is part of my continuous learning journey in JavaScript and web development.
 
-## 📂 Project Structure
-
-```text
-Day 4 Javascript Practice/
-│
-├── Async&Await/
-│   ├── async.js
-│   └── await.js
-│
-├── Fetch API/
-│   ├── async-fetch.js
-│   └── fetch-practice.js
-│
-├── Promises/
-│   ├── synchronous.js
-│   ├── asynchronous.js
-│   └── promises.js
-│
-└── user-directory-app/
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    └── README.md
-```
-
 ---
 
 ## 📚 Topics Covered
